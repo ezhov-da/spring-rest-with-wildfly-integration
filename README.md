@@ -1,4 +1,4 @@
-#spring-rest-with-wildfly-integration
+# spring-rest-with-wildfly-integration
 
 Тестовый проект направленный на изучение возможности интеграции SPRING-REST с очередью сообщений настроенной на сервере приложений WildFly.
 
